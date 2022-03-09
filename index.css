@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 5px;
+    font-family : sans-serif;
+    
+  }
+  body{
+   border-style: solid;
+    border-radius: 2px;
+  
+  }
+  .start{
+    background:linear-gradient(120deg, transparent 50% , orange 50% );
+    height: 45em;
+  }
+  
+  .logo {
+    float: left;
+    height: 0px;
+    width: 0px;
+  }
+  /* ~~ Top Navigation Bar ~~ */
+  
+  #nav1 {
+    width: 1200px;
+    margin: 0 auto;
+    height: 70px;
+  }
+  
+  .navbar {
+    
+    height: 70px;
+    width: 100%;
+    text-align:center;
+  }
+  .navbar img{
+  float:left;
+  height: 40px;
+  }
+  .navbar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  }
+  
+  .navbar li {
+    list-style-type: none;
+    padding: 0px;
+    height: 24px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: inline;
+  }
+  
+  .navbar li a {
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 70px;
+    padding: 5px 15px;
+    opacity: 0.7;
+  }
+  .navbar li a:hover{
+    color: white;
+    background-color:   #ffbf00;
+  }
+  
+  #menu {
+    float: right;
+     }
+     .h5{
+    
+        color:  #ffbf00;
+      }
+      .burger{
+        float: left;
+      }
+      
+      .column1{
+         float: left;
+        width: 45%;
+        padding: 40px;
+        padding-left:70px;
+        padding-right: 70px;
+        height: 475px;
+        margin:30px;
+        margin-right:30px;
+        margin-bottom: 70px;
+        line-height:2;
+      
+      }
+      .discover{
+        background-color:   #ffbf00;
+      }
+      .column1 button{
+        color: white;
+        background-color:   #ffbf00;
+        box-sizing: border-box;
+      
+      }
+      .home{
+          display: flex;
+          
+      }
+      .column2{
+        float: right;
+        width: 45%;
+        padding: 40px;
+        padding-left:70px;
+        padding-right: 70px;
+        height: 475px;
+        margin:30px;
+        margin-right:30px;
+        margin-bottom: 70px;
+        line-height:2;
+      }
+      .column2 img{
+        height: 500px;
+        width: 400px; 
+      }
+      
+      .homeButton{
+        border-radius: 10px 10px 0 10px;
+     padding: 20px;
+       }
+       .intro{
+           clear: both;
+        background-color: #E1EBE6;
+       }
