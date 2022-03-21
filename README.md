@@ -1,11 +1,15 @@
-# burger-palace
+# Burger-Palace
 BURGER PALACE
-This application is the land in page of a the companty.It allows the customers to get a veiw of the burgers being offered and the prices. 21st January 2022
-By ROse Mwangi
+This application is the land in page of a the companty.It allows the customers to get a veiw of the burgers being offered and the prices. 
+
+By Rose Mwangi
+
 Description
+
 This application is web appliction,gives the customers the ability to see the various types of burgers being offered and the various prices.It also gives a preveiw of the various ingredients used to make the burgers.
 
 Setup/Installation Requirements
+
 To be able to run the project the following are required;
 
 1.A code editor in our case we used Visual studio code
