@@ -306,3 +306,60 @@
 }
 
 /*END OF PRODUCTS SECTION */
+/*style the double decker section*/
+.docker{
+  background-color: #E1EBE6;
+  align-content: center;
+  text-emphasis-style: 700px;
+}
+.docker1{
+  float: left;
+}
+.docker2{
+  float: right;
+  
+}
+
+.check1{
+    height: 500px;
+    margin-right: -24px;
+  position: absolute;
+  margin-top: 76px;
+}
+
+.check2{
+    height: 580px;
+}
+#decker{
+  font-weight: bolder;
+  font-size: large;
+}
+
+.app{
+  clear: both;
+  background-color:   #ffbf00;
+ display: grid;
+}
+.appPic{
+    float: right;
+}
+/* Designing the footer */
+#footer{
+  clear: both;;
+  background-color: #E1EBE6;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  
+} 
+#menuFooter{
+  list-style: none;
+}
+
+.copyright{ 
+      
+background-color: #ffffff;
+display: flex;
+justify-content: space-around;
+padding: 10px;
+}
