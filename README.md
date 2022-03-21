@@ -1,5 +1,6 @@
 # Burger-Palace
-BURGER PALACE
+# BURGER PALACE
+
 This application is the land in page of a the companty.It allows the customers to get a veiw of the burgers being offered and the prices. 
 
 By Rose Mwangi
@@ -19,12 +20,15 @@ To be able to run the project the following are required;
 3.The application is easy to install and runs in both mobile and web application
 
 Known Bugs
+
 There are no known bugs in the sysyem.
 
 Technologies Used
+
 The technology used for this project was HTML AND CSS.
 
 Support and contact details
+
 For any questions or suggestions.Kindly contact me at nyamburawaridi@gmail.com
 
 License
