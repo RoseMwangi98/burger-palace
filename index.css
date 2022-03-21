@@ -218,3 +218,91 @@
   margin-top: 50px;
 }
   /* end of section 2*/
+
+  /* style the products section*/
+  /* Section 3 */
+#sectionT h3{
+  text-align: center;
+  font-size: 40px;
+
+
+}
+#sectionT h3 span{
+  color: orange;
+}
+
+#sectionT hr{
+  border: chocolate solid 5px;
+  width: 15%;
+  margin-left: 42.4%;
+}
+
+
+.burgers{
+  display: flex;
+}
+
+.burgers .b1{
+  border: 0px solid black;
+  border-radius: 50px;
+  width: 25%;
+  height: 100%;
+  margin: 5%;
+  box-shadow: 0px 2px 4px 3px grey;
+  
+}
+
+.burgers .b1 .burg1{
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;    
+}
+.burgers .b1 h3{
+  
+  text-align: center;
+  margin-top: 5%;
+  color: #330606;
+}
+
+.burgers .b1 p{
+  
+  font-size: 13px;
+  text-align: center;
+}
+
+
+.burgers .b1 .ksh-cart{
+  display: flex;
+  margin: 4%;
+}
+.burgers .b1 h4{
+  
+  margin-left: 5%;
+  margin-top: 14%;
+  font-size: 15px;
+}
+
+.burgers .b1 h4:hover{
+  color: #fec13d;
+}
+
+
+
+.burgers .b1 .shop-cart{
+  width: 9%;
+  height: 45%;
+  margin-left: 42%;
+  margin-top: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  border-radius: 20px;
+  background-color: #E1EBE6;
+}
+
+/*END OF PRODUCTS SECTION */
